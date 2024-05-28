@@ -1,3 +1,4 @@
 git push pushing to main branch
 git pull is when you pull a stupid file
 git checkout is when you switch stupid branches
+git merging is when you merge the stupid branches
